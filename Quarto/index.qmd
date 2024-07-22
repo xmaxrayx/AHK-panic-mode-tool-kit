@@ -1,0 +1,13 @@
+---
+title: "AHK panic-mode tool kit"
+---
+
+
+
+* this software is aimed to fix modifier keys when they are stuk on hold mode foreever.
+
+* Additionally, you can kill all auto-hotkeys process with a button.
+
+* To make the most out of this critical error-solving tool, place it in an easily accessible location such as your desktop. This will allow you to quickly click on the tool when needed.
+
+![software screenshot](Assists/programView.png)
